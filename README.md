@@ -4,4 +4,4 @@ I'm going to use this file as a playground while creating the example. You'll li
 
 A repository to play around with rebase commands using --rebase-merges
 
-Here's some sample text
+Here's some sample text.
